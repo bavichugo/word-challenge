@@ -2,7 +2,7 @@ import BlueButton from "./BlueButton";
 
 const NavBar = () => {
   return (
-    <div className="flex w-full bg-black h-16 items-center justify-center">
+    <div className="flex w-full bg-black h-16 items-center justify-center border-b-cblue1/20 border-b">
       <div className="flex justify-between max-w-cmax w-full items-center">
         <h1 className="text-xl">Wordyyy</h1>
         <div className="flex gap-x-4">
